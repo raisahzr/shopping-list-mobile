@@ -1,6 +1,6 @@
 # shopping_list
 
-A new Flutter project.
+Public App Link: https://install.appcenter.ms/orgs/shopping-list-raisa/apps/shopping-list/distribution_groups/public
 
 ## Getting Started
 
